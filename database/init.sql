@@ -1,1 +1,0 @@
--- PostgreSQL initial setup script
